@@ -1,4 +1,4 @@
-<h2 align="center"><strong> Hola, me llamo Jorge Islas</strong></h2>
+<h2 align="center"><strong> Hola, me llamo CIJ</strong></h2>
 
 Si tú eres alguien que quiere transformar su conocimiento de lógica, matemáticas y programación en soluciones a problemas reales, estás en el lugar correcto. Aquí podrás encontrar repositorios de archivos y código para **prototipos de soluciones** a problemas reales, **demos y tutoriales** del uso de software, herramientas y librerías, y **proyectos** que te podrán ser de ayuda o de interés.
 
@@ -21,13 +21,6 @@ Si tú eres alguien que quiere transformar su conocimiento de lógica, matemáti
 ![Static Badge](https://img.shields.io/badge/-OpenCV-%23161d2c?style=for-the-badge&logo=opencv&logoColor=%23fbfbfb&label=%20&labelColor=%235C3EE8&color=%230c0c0c)
 ![Static Badge](https://img.shields.io/badge/-Scikit%20Learn-%23161d2c?style=for-the-badge&logo=scikit-learn&logoColor=%23fbfbfb&label=%20&labelColor=%23F7931E&color=%230c0c0c)
 
-<h3><img src="./img/icono-i.png" width="15px"><b> Repositorios destacados</b></h3>
-
-| Nombre | Descripción | Softwares, lenguajes y herramientas |
-| --- | --- | --- |
-| [Conda-tutorial-basico](https://github.com/Jorge-Islas/Conda-tutorial-basico) | Tutorial básico de conda que abarca la diferencia entre Anaconda y Miniconda, cómo verificar una instalación correcta, cómo **crear entornos de conda**, cómo instalar paquetes y más. | ![Static Badge](https://img.shields.io/badge/-Anaconda-%23161d2c?style=for-the-badge&logo=Anaconda&logoColor=%23fbfbfb&label=%20&labelColor=%233AAE2A&color=%230c0c0c) |
-| [Sistema-seguridad-automatico](https://github.com/Jorge-Islas/Sistema-seguridad-automatico) | Planteamiento de un posible problema real del sistema de seguridad para una empresa de renta de bodegas e **implementación de un prototipo** de la solución. | ![Static Badge](https://img.shields.io/badge/-Python-%23161d2c?style=for-the-badge&logo=python&logoColor=%23fbfbfb&label=%20&labelColor=%23306998&color=%230c0c0c)![Static Badge](https://img.shields.io/badge/-Google%20Colab-%23FFFFFF?style=for-the-badge&logo=googlecolab&logoColor=%23FBFBFB&labelColor=%23F9AB00&color=%230c0c0c)|
-| [Optimizacion-de-recursos-y-ganancias](https://github.com/Jorge-Islas/Optimizacion-de-recursos-y-ganancias) | Planteamiento de un posible problema real de la **optimización de recursos** para sacar la **máxima ganancia**, en el cual, dados **posibles productos** que requieran la **compra de ciertos materiales**, se quiera saber la combinación óptima para la mayor ganancia al **vender los objetos** | ![Static Badge](https://img.shields.io/badge/-Python-%23161d2c?style=for-the-badge&logo=python&logoColor=%23fbfbfb&label=%20&labelColor=%23306998&color=%230c0c0c) ![Static Badge](https://img.shields.io/badge/-Anaconda-%23161d2c?style=for-the-badge&logo=Anaconda&logoColor=%23fbfbfb&label=%20&labelColor=%233AAE2A&color=%230c0c0c) ![Static Badge](https://img.shields.io/badge/-SciPy-%23161d2c?style=for-the-badge&logo=Scipy&logoColor=%23fbfbfb&label=%20&labelColor=%230D56A5&color=%230c0c0c) ![Static Badge](https://img.shields.io/badge/-Pandas-%23161d2c?style=for-the-badge&logo=pandas&logoColor=%23fbfbfb&label=%20&labelColor=%230B0153&color=%230c0c0c) |
 
 <br>
 
